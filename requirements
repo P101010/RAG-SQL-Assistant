@@ -1,0 +1,8 @@
+fastapi==0.95.1
+uvicorn==0.22.0
+pydantic==1.10.8
+streamlit==1.25.0
+requests==2.31.0
+langchain==0.0.208  # Adjust version to match your usage
+psycopg2==2.9.6  # For PostgreSQL database support (if using)
+python-dotenv==1.0.0  # If using .env files for environment variables
