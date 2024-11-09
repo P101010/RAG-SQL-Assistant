@@ -1,14 +1,5 @@
 # RAG SQL Assistant
 
-## Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Architecture](#architecture)
-- [Technologies Used](#technologies-used)
-- [Prerequisites](#prerequisites)
-- [Usage](#usage)
-- [License](#license)
-
 ## Overview
 
 The **RAG SQL Assistant** is a powerful Retrieval-Augmented Generation (RAG) tool designed to help users to interact with SQL databases through natural language and retrieve results leveraging LangChain, OpenAI embeddings, GPT-4o and Postgres database.
